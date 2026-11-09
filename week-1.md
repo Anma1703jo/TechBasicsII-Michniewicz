@@ -1,4 +1,4 @@
-#Week 1
+# Week 1
 
 Hi, I'm gonna be honest, it's week 3 and I kind of forgot to do the log so far. So I'm kind of recreating the first 2 weeks ^^
 
@@ -6,4 +6,8 @@ So generally, I was able to follow along pretty well during the lesson. I made t
 At home I searched up some YouTube videos to get a picture of what was possible with the Arduino (found some cool Media Art stuff, maybe something for future reference??)
 
 Well, I also decided to try something out and found this video: https://www.youtube.com/watch?v=e1FVSpkw6q4
-I was pretty proud, haha. I will add a video at a later point.
+
+Outcome: 
+
+
+
