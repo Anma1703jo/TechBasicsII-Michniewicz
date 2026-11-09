@@ -39,7 +39,9 @@ void loop() {
 
 ### b: in sequence
 https://github.com/user-attachments/assets/bc2a5e14-7299-4f8f-be86-0c4ddb8a7b6e
+
 Code:
+
 const int RED = 4;
 const int YELLOW = 3;
 const int GREEN = 2;
