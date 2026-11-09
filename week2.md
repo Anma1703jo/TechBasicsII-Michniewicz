@@ -38,3 +38,32 @@ void loop() {
 
 
 ### b: in sequence
+https://github.com/user-attachments/assets/bc2a5e14-7299-4f8f-be86-0c4ddb8a7b6e
+Code:
+const int RED = 4;
+const int YELLOW = 3;
+const int GREEN = 2;
+
+void setup() {
+  pinMode(RED, OUTPUT);
+  pinMode(YELLOW, OUTPUT);
+  pinMode(GREEN, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(RED, HIGH);
+  delay(250);
+  digitalWrite(YELLOW, HIGH);
+  delay(250);
+  digitalWrite(GREEN, HIGH);
+  delay(500);
+  digitalWrite(RED, LOW);
+  delay(250);
+  digitalWrite(YELLOW, LOW);
+  delay(250);
+  digitalWrite(GREEN, LOW);
+  delay(500);
+}
+
+### Exercise 4
+
