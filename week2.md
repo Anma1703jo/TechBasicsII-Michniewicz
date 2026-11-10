@@ -4,10 +4,10 @@ Hi, it is the end of week 4 and I forgot to save most of the files for the exerc
 So I will redo it at home..
 
 ### Exercise 1: Series Circuit
-![Series Circuit](images/serial_circuit.jpeg)
-(struggling to upload images, will ad later)
+<img width="302" height="403" alt="Image" src="https://github.com/user-attachments/assets/04b24b7a-d1c4-463c-b08f-7af39a5a4102" />
 
 ### Exercise 2: Parallel Circuit
+<img width="403" height="302" alt="Image" src="https://github.com/user-attachments/assets/5a8cd31b-e66d-4b73-b141-50b7aeb66e67" />
 
 ### Exercise 3: Traffic Light
 ### a: simultaneously
