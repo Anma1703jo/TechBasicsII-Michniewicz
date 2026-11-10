@@ -14,7 +14,7 @@ So I will redo it at home..
 https://github.com/user-attachments/assets/b719e9f5-7a7b-4a19-ac63-13c46a648cfe
 
 Code:
-
+```c++
 const int RED = 4;
 const int YELLOW = 3;
 const int GREEN = 2;
@@ -35,13 +35,13 @@ void loop() {
   digitalWrite(YELLOW, LOW);
   delay(500);
 }
-
+```
 
 ### b: in sequence
 https://github.com/user-attachments/assets/bc2a5e14-7299-4f8f-be86-0c4ddb8a7b6e
 
 Code:
-
+```c++
 const int RED = 4;
 const int YELLOW = 3;
 const int GREEN = 2;
@@ -66,6 +66,7 @@ void loop() {
   digitalWrite(GREEN, LOW);
   delay(500);
 }
+```
 
 ### Exercise 4
 
