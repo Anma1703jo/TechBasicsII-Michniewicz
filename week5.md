@@ -11,6 +11,7 @@ https://github.com/user-attachments/assets/4b7a94bb-2ca9-4d0a-9776-0695e60e81eb
 
 Code:
 
+```c++
 #include <Servo.h>
 Servo myservo;
 
@@ -32,6 +33,7 @@ void loop() {
   Serial.println(servoValue);
   myservo.write(servoValue);
 }
+```
 
 ### Exercise 3: Joystick
 
@@ -45,6 +47,7 @@ want to react. We looked up some tutorials on controlling multiple servos online
 
 Here is the code:
 
+```c++
 #include <Servo.h>
 Servo myservo1;
 Servo myservo2; // that's what I meant
@@ -92,6 +95,7 @@ void loop() {
   myservo1.write(servo1Value);
   myservo2.write(servo2Value);
 }
+```
 
 And here is a super cool video of it!
 
